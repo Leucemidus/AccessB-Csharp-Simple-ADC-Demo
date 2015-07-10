@@ -1,0 +1,18 @@
+c:\users\sodor\documents\visual studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\bin\Debug\Simple ADC Demo.exe.config
+c:\users\sodor\documents\visual studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\bin\Debug\Simple ADC Demo.exe
+c:\users\sodor\documents\visual studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\bin\Debug\Simple ADC Demo.pdb
+c:\users\sodor\documents\visual studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple ADC Demo.csprojResolveAssemblyReference.cache
+c:\users\sodor\documents\visual studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple_ADC_Demo.Form1.resources
+c:\users\sodor\documents\visual studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple_ADC_Demo.Properties.Resources.resources
+c:\users\sodor\documents\visual studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple ADC Demo.csproj.GenerateResource.Cache
+c:\users\sodor\documents\visual studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple ADC Demo.exe
+c:\users\sodor\documents\visual studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple ADC Demo.pdb
+C:\Users\Omar trevizo\Documents\Visual Studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\bin\Debug\Simple ADC Demo.exe.config
+C:\Users\Omar trevizo\Documents\Visual Studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple ADC Demo.exe
+C:\Users\Omar trevizo\Documents\Visual Studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple ADC Demo.pdb
+C:\Users\Omar trevizo\Documents\Visual Studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\bin\Debug\Simple ADC Demo.exe
+C:\Users\Omar trevizo\Documents\Visual Studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\bin\Debug\Simple ADC Demo.pdb
+C:\Users\Omar trevizo\Documents\Visual Studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple ADC Demo.csprojResolveAssemblyReference.cache
+C:\Users\Omar trevizo\Documents\Visual Studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple_ADC_Demo.Form1.resources
+C:\Users\Omar trevizo\Documents\Visual Studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple_ADC_Demo.Properties.Resources.resources
+C:\Users\Omar trevizo\Documents\Visual Studio 2012\Projects\Simple ADC Demo\Simple ADC Demo\obj\Debug\Simple ADC Demo.csproj.GenerateResource.Cache
