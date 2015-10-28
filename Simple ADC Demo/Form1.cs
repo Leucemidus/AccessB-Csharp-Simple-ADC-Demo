@@ -72,6 +72,5 @@ namespace Simple_ADC_Demo
         {
             cmbChannel.Text = "";
         }
-
     }
 }
