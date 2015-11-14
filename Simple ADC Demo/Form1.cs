@@ -64,6 +64,7 @@ namespace Simple_ADC_Demo
                 MessageBox.Show("Please select a valid analog input");
                 return;
             }
+ //           UInt32 merda = AccB.ADC_Val(Convert.ToUInt32(cmbChannel.Text));
             txbSampleVal.Text = AccB.ADC_Val(Convert.ToUInt32(cmbChannel.Text)).ToString();
         }
 
